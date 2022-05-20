@@ -1,0 +1,2 @@
+# Setup 
+yarn && yarn run
